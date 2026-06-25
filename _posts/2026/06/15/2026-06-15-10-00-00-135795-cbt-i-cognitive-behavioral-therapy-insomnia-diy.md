@@ -7,9 +7,6 @@ tags: [불면증, 수면, CBT-I, 자가관리]
 comments: true
 share: true
 ---
-
-# CBT-I 수면 인지행동치료 혼자 해보기 — 수면제 없이 불면증 고치는 방법
-
 ![불면증 치료와 수면 관리](https://images.unsplash.com/photo-1541781774459-9ad3b19f6e58?w=800&q=80)
 
 CBT-I(Cognitive Behavioral Therapy for Insomnia, 수면 인지행동치료)는 만성 불면증에서 가장 효과적인 비약물 치료법으로 인정받고 있다. 미국 수면의학회(AASM)와 유럽 수면학회 모두 1차 치료법으로 권고한다. 수면제보다 장기적 효과가 높고, 치료 후 재발률도 낮다.
