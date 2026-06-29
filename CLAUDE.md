@@ -252,5 +252,5 @@ share: true
 | 2 | 수면위생 — 실제로 효과 있는 것만 | 미작성 |
 | 3 | CBT-I 수면 인지행동치료 혼자 해보기 | 미작성 |
 
-마지막 포스트: `_posts/2026/06/26/2026-06-26-12-00-00-283935-gerd-sleep-position-pillow-height.md`
-다음 일련번호: `296280`
+마지막 포스트: `_posts/2026/06/28/2026-06-28-14-00-00-370350-panic-disorder-self-coping-during-attack.md`
+다음 일련번호: `382695`
