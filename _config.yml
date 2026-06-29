@@ -90,4 +90,4 @@ gems:
   - jekyll-paginate
   - jekyll-admin
 
-exclude:            [vendor]
+exclude:            [vendor, CLAUDE.md]
