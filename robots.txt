@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://colin-ch-flutter.github.io/sitemap.xml
+Sitemap: https://colinch-disease.github.io/sitemap.xml
